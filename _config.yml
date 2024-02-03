@@ -2,15 +2,15 @@
 title: Soloveld
 subtitle: -vivi_Q-
 email: Qjiang188@outlook.com
-description: What you see, what is me.<br /> I just want to recored these moments.
-baseurl: "/journal" # the subpath of your site, e.g. /blog
-url: https://Soloveld_viviQ.github.io
+description: What you see, what is me.<br /> I just want to record these moments.
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://_viviQ.github.io
 author: vivi
-street_address: 1234 Somewhere Road
+street_address:  Road
 city: Shanghai
 state: CN
 zip_code: 55555
-country: United States of America
+country: China
 phone: +86 15328276678
 
 # homepage tiles
